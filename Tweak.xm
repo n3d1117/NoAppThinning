@@ -1,3 +1,13 @@
+%hook SSDevice
+-(NSString*)thinnedApplicationVariantIdentifier {
+    return @"i386";
+}
+%end
+
+/*
+
+# Objc runtime alternative
+
 #import <objc/runtime.h>
 
 %ctor {
@@ -9,3 +19,4 @@
         method_setImplementation(originalMethod, newImp);
     }
 }
+*/
