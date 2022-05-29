@@ -7,4 +7,4 @@ No settings to configure and no respring needed. Only tested on iOS 11+.
 You can install the `.deb` manually or get it at this Cydia repo: https://n3d1117.github.io
 
 ## Credits
-Credits: [cokepokes](https://github.com/CokePokes)
+Credits: [level3tjg](https://twitter.com/level3tjg)
